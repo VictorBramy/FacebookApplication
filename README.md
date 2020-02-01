@@ -7,3 +7,5 @@ Create Facebook application using 6 design patterns, Multithreads and data-bindi
 2. Smart Calendar - Find by date who posted or went to an event or has a birthday on your chosen date.
 
 Using 6 design patterns like facade, proxy, iterator, strategy, singleton, command
+
+Information that describes the system extensively is displayed within a file named - AppInformationAndDiagrams.docx
