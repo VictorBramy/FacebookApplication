@@ -1,6 +1,6 @@
 # FacebookApplication
 
-Create Facebook application using 6 design patterns
+Create Facebook application using 6 design patterns, Multithreads and data-binding
 
 2 Facebook features
 1. Finding the 5 Best Friends by Comments and Likes on Photo Album Events Events, Different Calculation for Each of the Details.
